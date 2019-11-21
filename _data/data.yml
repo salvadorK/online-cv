@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Karl Anthony Salvador
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: karlanthonysalvador@gmail.com
+    phone: 514 709 0941
+    website:  #do not add http://
+    linkedin: karlanthonysalvador
+    github: salvadorK
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,89 +31,54 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Filipino
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Dancing
         link:
 
-      - item: Snowboarding
+      - item: Hockey
         link:
 
       - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: Full Stack Web Developer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Front-end: React.js, Redux, HTML5, CSS3, JavaScript ES6 & Next, React Native Back-end: Node.js, Express, MongoDB, MySQL  Tools: Git, Github, Babel, NPM, Webpack, Docker
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Diploma in Full-Stack Web Development
+      university: Concordia University
+      time: 2019 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Completed 480+ hours of intensive full-stack web development course focused on programming fundamentals including test-driven development, object oriented programming, pair-programming, algorithms and databases, etc. 
+    - degree: PROFESSIONAL INTEGRATION INTO NURSING IN QUÉBEC
+      university: John Abbott College
+      time: 2017 - 2017
+    - degree: Bachelors of Science in Nursing
+      university: Our Lady of Fatima University
+      time: 2006 - 2010
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Recruiter
+      time: 2018 - 2018
+      company: Teleperformance, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Testing, Interviewing, Reviewing candidates, applying for different posts in the company both in English and French.
+    - role: Quality Analyst
+      time: 2017 - 2018
+      company: Teleperformance, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Listening to various 20 calls of agents per week to assess and evaluate the quality of customer service  to maintain clients standards and excellence.
+    - role:  Customer/Technical service representative
+      time: 2016 - 2017
+      company: Teleperformance, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Provide top customer service / technical support to its clients.
+Worked with both software and hardware
+
 projects:
     title: Projects
     intro: >
