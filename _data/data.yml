@@ -104,9 +104,13 @@ skills:
 
       - name: HTML5 & CSS
         level: 95%
+        
+      - name: Bootstrap
+        level: 95%
 
       - name: Database Management (MySQL / MongoDB)
         level: 85%
+        
 
      
 
