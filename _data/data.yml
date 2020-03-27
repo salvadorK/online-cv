@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: karlanthonysalvador@gmail.com
     phone: 514 709 0941
-    website:  "#salvadork.github.io/online-cv/"
+    website:  #salvadork.github.io/online-cv/
     linkedin: karlanthonysalvador
     github: salvadorK
     gitlab:
@@ -88,7 +88,7 @@ projects:
     title: Projects
     assignments:
       - title: Le Bookstore
-        link: "#github.com/salvadorK/bookstore"
+        link: "https://github.com/salvadorK/bookstore"
         tagline: "A full stack web application used to buy and sell books built using Mongodb, React, Redux, Node.Js, Express, Multer."
 
 skills:
