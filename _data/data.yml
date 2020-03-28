@@ -44,8 +44,8 @@ sidebar:
 career-profile:
     title: Full Stack Web Developer
     summary: |
-      Front-end: React.js, Redux, HTML5, CSS3, JavaScript ES6 & Next, React Native
-      Back-end: Node.js, Express, MongoDB, MySQL  
+      Front-end: React.js, Redux, HTML5, CSS3, JavaScript ES6 & Next, React Native,
+      Back-end: Node.js, Express, MongoDB, MySQL,
       Tools: Git, Github, Babel, NPM, Webpack, Docker
       
 education:
