@@ -71,6 +71,14 @@ experiences:
         Collaborates with the CTO, to give input in platform UI/UX design. 
         Receives user feedback and transform actionable improvements. 
         Works in AGILE environment following SCRUM methodology.
+    - role: Head Web Developer
+      time: 2020 - Present
+      company: Meditate for Earth (Non-profit organization)
+      details: |
+        Full stack developer working with the NodeJS environment, and Java, utilizing frameworks and libraries such as ExpressJS, React, and Redux, to create web applications.
+        Led a team of 3 developers, taking care of their training and alignment with company goals
+        Reviewed and plan the direction of the company through regular meetings (eg. Scrum and Sprint planning)
+        Handled server management, product deployment and customer feedback
     - role: Recruiter
       time: 2018 - 2018
       company: Teleperformance, Montreal
@@ -90,6 +98,9 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Meditate for Earth
+        link: "https://www.meditate4earth.org/"
+        tagline: "Meditate for Earth is a platform that allows real-time global syncronized meditation."
       - title: Le Bookstore
         link: "https://github.com/salvadorK/bookstore"
         tagline: "A full stack web application used to buy and sell books built using Mongodb, React, Redux, Node.Js, Express, Multer."
