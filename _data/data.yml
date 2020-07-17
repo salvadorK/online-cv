@@ -17,10 +17,10 @@ sidebar:
     website:  "salvadork.github.io/online-cv/"
     linkedin: karlanthonysalvador
     github: salvadorK
-    gitlab:
+    gitlab: salvadorkab
     bitbucket:
     twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 13376559/salva-dork
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -46,7 +46,7 @@ career-profile:
     summary: |
       Front-end: React.js, Vue.js, Redux, HTML5, CSS3, JavaScript ES6 & Next, React Native, Bootstrap
       
-      Back-end: Node.js, Express, MongoDB, MySQL,
+      Back-end: Node.js, Express, MongoDB, MySQL
       
       Tools: Git, Github, Babel, NPM, Webpack, Docker
       
